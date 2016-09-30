@@ -12,7 +12,7 @@ namespace AcsApp
         {
             int n = 42;
             Console.Write("\nA C# App:");
-            for (int i = 1; i < 5; i++)
+            for (int i = 1; i < 6; i++)
                 Console.Write(" {0}", i);
             Console.WriteLine("\n");
             Console.ReadKey();
