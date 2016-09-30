@@ -11,6 +11,7 @@ namespace AcsApp
         static void Main(string[] args)
         {
             Console.WriteLine("\nA C# App\n");
+            Console.ReadKey();
         }
     }
 }
