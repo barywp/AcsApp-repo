@@ -11,7 +11,10 @@ namespace AcsApp
         static void Main(string[] args)
         {
             int n = 42;
-            Console.WriteLine("\nA C# App\n");
+            Console.Write("\nA C# App:");
+            for (int i = 1; i < 5; i++)
+                Console.Write(" {0}", i);
+            Console.WriteLine("\n");
             Console.ReadKey();
         }
     }
