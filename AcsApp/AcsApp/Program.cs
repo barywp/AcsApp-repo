@@ -1,4 +1,4 @@
-﻿// AcsApp -- A C# App for Git experiments
+﻿// AcsApp -- A C# App for Git experiments -- 2016 10 02
 
 using System;
 
@@ -9,7 +9,7 @@ namespace AcsApp
         static void Main(string[] args)
         {
             Console.Write("\nA C# App:");
-            for (int i = 1; i < 16; i++)
+            for (int i = 1; i < 21; i++)
                 Console.Write(" {0}", i);
             Console.WriteLine("\n");
         }
