@@ -1,8 +1,6 @@
-﻿using System;
-//using System.Collections.Generic;
-//using System.Linq;
-//using System.Text;
-//using System.Threading.Tasks;
+﻿// AcsApp -- A C# App for Git experiments
+
+using System;
 
 namespace AcsApp
 {
@@ -10,7 +8,6 @@ namespace AcsApp
     {
         static void Main(string[] args)
         {
-            int n = 42;
             Console.Write("\nA C# App:");
             for (int i = 1; i < 16; i++)
                 Console.Write(" {0}", i);
