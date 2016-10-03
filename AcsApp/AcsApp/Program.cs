@@ -1,4 +1,4 @@
-﻿// AcsApp -- A C# App for Git experiments -- 2016 10 02 -- UPDATED from XPS17
+﻿// AcsApp -- A C# App for Git experiments -- 2016 10 02 -- UPDATED from I3847
 
 using System;
 
