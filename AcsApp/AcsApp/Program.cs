@@ -4,7 +4,7 @@ using System;
 
 namespace AcsApp
 {
-    class Program
+    partial class Program
     {
         static void Main(string[] args)
         {
@@ -16,16 +16,6 @@ namespace AcsApp
             AProc();
             n = AFunc();
             Console.WriteLine("n = {0}\n", n);
-        }
-
-        static int AFunc()
-        {
-            return 42;
-        }
-
-        static void AProc()
-        {
-            Console.WriteLine("AProc... AFunc -> {0}", AFunc());
         }
     }
 }
