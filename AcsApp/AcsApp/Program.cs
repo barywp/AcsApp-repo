@@ -25,7 +25,7 @@ namespace AcsApp
 
         static void AProc()
         {
-            Console.WriteLine("AProc...");
+            Console.WriteLine("AProc... AFunc -> {0}", AFunc());
         }
     }
 }
