@@ -9,7 +9,7 @@ namespace AcsApp
         // Main method
         static void Main(string[] args)
         {
-            int n;
+            int m, n;
             Console.Write("\nA C# App:");
             Console.Write(" -master- ");    //FOO
             for (int i = 1; i < 21; i++)
