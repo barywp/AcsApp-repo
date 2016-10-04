@@ -6,6 +6,7 @@ namespace AcsApp
 {
     partial class Program
     {
+        // Main method
         static void Main(string[] args)
         {
             int n;
