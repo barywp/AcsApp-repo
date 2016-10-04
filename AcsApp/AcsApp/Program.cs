@@ -17,7 +17,7 @@ namespace AcsApp
             Console.WriteLine("\n");
             AProc();
             n = AFunc();
-            Console.WriteLine("fourthBranch");
+            Console.WriteLine("\nfourthBranch");
             Console.WriteLine("n = {0}\n", n);
         }
     }
