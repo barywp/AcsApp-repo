@@ -1,4 +1,4 @@
-﻿// AcsApp -- A C# App for Git experiments -- 2016 10 02 -- UPDATED from I3847
+﻿// AcsApp -- A C# App for Git experiments -- 2016 10 29 -- UPDATED from I3847
 
 using System;
 
@@ -15,5 +15,5 @@ namespace AcsApp
         {
             Console.Write("AProc... AFunc -> {0}. ", AFunc());
         }
-    }
+    } // end class Program
 }
