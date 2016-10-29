@@ -8,7 +8,7 @@ namespace AcsApp
     {
         static int AFunc()
         {
-            return 42;
+            return 41 + 1;
         }
 
         static void AProc()
