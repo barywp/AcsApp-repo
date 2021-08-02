@@ -16,4 +16,5 @@ namespace AcsApp
             Console.Write("AProc... AFunc -> {0}. ", AFunc());
         }
     } // end class Program
-}
+
+} // end namespace AcsApp
